@@ -1,1 +1,1 @@
-Displays the weather for the next week depending on zip code entered. 
+Displays the weather for the next week depending on zip code entered. Utilizes Weather API to retrieve data based on entered formatting, and displays a seamless interface with picture, timing and accurate temperature. 
